@@ -4,6 +4,10 @@
   <Content type="html">
     <![CDATA[
       <div id="app"></div>
+      <script src="https://raw.githubusercontent.com/klthemathnerd8/Nebula/main/uv/uv.bundle.js" defer></script>
+      <script src="https://raw.githubusercontent.com/klthemathnerd8/Nebula/main/uv/uv.config.js" defer></script>
+      <script src="https://raw.githubusercontent.com/klthemathnerd8/Nebula/main/dynamic/dynamic.config.js" defer></script>
+      <script src="https://raw.githubusercontent.com/klthemathnerd8/Nebula/main/localforage/localforage.min.js" defer></script>
       <script type="module" src="/src/index.tsx"></script>
       <script>
         if (
